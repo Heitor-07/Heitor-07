@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Heitor-07
-- 👀 I’m interested in criar aplicações web.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on my projects
-- 📫 How to reach me ...
+- 👋 Olá, Sou Heitor!
+- 👀 Tenho interesse em criar aplicações web, desde jogos até sistemas corporativos.
+- 🌱 atualmente estou aprendendo React.
+- 📫 Como chegar até mim: https://www.linkedin.com/in/heitor-augusto-9a8a2b138/
 
 <!---
 Heitor-07/Heitor-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
